@@ -110,5 +110,7 @@
 	<classpathentry kind="lib" path="lib/slf4j-log4j12-1.7.9.jar"/>
 	<classpathentry kind="lib" path="lib/spring-beans-4.3.8.RELEASE.jar"/>
 	<classpathentry kind="lib" path="lib/spring-core-4.3.8.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/DevelopApp/maven/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar"/>
+	<classpathentry kind="lib" path="lib/lombok-1.18.8.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
