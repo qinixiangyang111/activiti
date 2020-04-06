@@ -1,4 +1,4 @@
-package com.yueyang.act;
+package com.yueyang.act.query;
 
 import java.util.List;
 
