@@ -10,5 +10,8 @@
 		<property name="jdbcUsername" value="root" />
 		<property name="jdbcPassword" value="root1234" />
 		<property name="databaseSchemaUpdate" value="true" />
+		<!-- 开启异步任务 -->
+		<!--  
+		<property name="asyncExecutorActivate" value="true"></property>-->
 	</bean>
 </beans>
